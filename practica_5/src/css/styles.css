@@ -1,0 +1,28 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+}
+
+.App h1 {
+    color: yellow;
+}
+
+.App img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+
+.App button {
+    background-color: palevioletred;
+    color: yellow;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
