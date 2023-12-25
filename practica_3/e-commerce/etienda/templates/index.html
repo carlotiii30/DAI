@@ -1,0 +1,40 @@
+{% extends "template.html" %}
+{% load static %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="card-deck">
+        <div class="card">
+            <img src="{% static 'images/women.jpg' %}" alt="Women's Clothing" class="card-img-top img-fluid h-50">
+            <div class="card-body">
+                <h5 class="card-title">Women's Clothing</h5>
+                <a href="/etienda/categoria/women's clothing" class="btn btn-primary">View Products</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="{% static 'images/men.jpg' %}" alt="Men's Clothing" class="card-img-top img-fluid h-50">
+            <div class="card-body">
+                <h5 class="card-title">Men's Clothing</h5>
+                <a href="/etienda/categoria/men's clothing" class="btn btn-primary">View Products</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="{% static 'images/jewelery.jpg' %}" alt="Jewelry" class="card-img-top img-fluid h-50">
+            <div class="card-body">
+                <h5 class="card-title">Jewelry</h5>
+                <a href="/etienda/categoria/jewelery" class="btn btn-primary">View Products</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="{% static 'images/electronics.jpg' %}" alt="Electronics" class="card-img-top img-fluid h-50">
+            <div class="card-body">
+                <h5 class="card-title">Electronics</h5>
+                <a href="/etienda/categoria/electronics" class="btn btn-primary">View Products</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
