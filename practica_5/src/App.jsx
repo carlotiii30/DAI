@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./styles.css";
+import "./css/styles.css";
 
 export default function App() {
   const [isLoading, setIsLoading] = useState(true);
