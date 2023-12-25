@@ -1,0 +1,1097 @@
+[24/Nov/2023 11:55:01] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 11:55:05] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 11:56:00] INFO [etienda.api:105] Conexión a la base de datos exitosa
+[24/Nov/2023 11:57:46] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 11:58:18] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 11:58:33] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 12:00:05] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 12:00:35] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:00:35] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:00:52] INFO [etienda.api:105] Conexión a la base de datos exitosa
+[24/Nov/2023 12:00:58] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:00:58] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:01:02] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:01:02] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:01:38] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:01:38] ERROR [django:119] "POST - Crea_producto /etienda/api/productos" ()
+[24/Nov/2023 12:02:16] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 12:02:25] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 12:02:47] INFO [etienda.api:250] Productos listados
+[24/Nov/2023 12:03:06] INFO [etienda.api:250] Productos listados
+[24/Nov/2023 12:03:15] INFO [etienda.api:250] Productos listados
+[24/Nov/2023 12:06:05] INFO [etienda.api:250] Productos listados
+[24/Nov/2023 12:25:06] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 12:25:14] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:25:22] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: jewelery
+[24/Nov/2023 12:25:26] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:25:31] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: note
+[24/Nov/2023 12:32:54] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: note
+[24/Nov/2023 12:33:00] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:34:09] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:34:28] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:34:30] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:38:05] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:41:10] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:41:12] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:41:45] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: jewelery
+[24/Nov/2023 12:45:17] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:45:25] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:46:09] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 12:47:31] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[24/Nov/2023 13:02:26] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 13:03:20] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 13:03:26] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 13:03:45] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 13:03:50] INFO [etienda.models:37] Productos insertados: 20
+[24/Nov/2023 13:04:28] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:13:54] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:14:38] INFO [etienda.api:105] Conexión a la base de datos exitosa
+[25/Nov/2023 11:24:10] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:31:02] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:39:17] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:39:42] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:41:03] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:43:13] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:43:26] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:43:41] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:44:40] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:44:44] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:44:48] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:44:50] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:44:56] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:45:04] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:45:25] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:45:34] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:45:49] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:48:03] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:50:06] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:51:45] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[25/Nov/2023 11:53:53] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:57:56] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:58:18] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 11:58:38] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 12:03:40] INFO [etienda.models:37] Productos insertados: 20
+[25/Nov/2023 12:04:09] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 11:59:48] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:07:39] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:17:30] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:19:07] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:19:28] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:19:35] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:23:41] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:24:40] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:25:33] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:25:35] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:25:55] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:27:11] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:28:01] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:28:05] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:28:26] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:29:45] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:29:49] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: hola
+[01/Dec/2023 12:29:55] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: shirt
+[01/Dec/2023 12:29:59] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:31:09] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:31:19] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:31:37] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:31:54] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: men's clothing
+[01/Dec/2023 12:32:20] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:32:21] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:32:55] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:34:07] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:34:09] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:34:11] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:34:12] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:34:14] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:34:14] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:34:14] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:34:34] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:34:36] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:42:38] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:42:41] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:47:24] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:47:32] INFO [etienda.models:69] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:47:36] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:48:51] INFO [etienda.models:69] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:48:55] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 11, in index
+    obtener_categorias()
+  File "/e-commerce/etienda/models.py", line 48, in obtener_categorias
+    producto["id"] = str(producto.get('_id'))
+                         ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+[01/Dec/2023 12:48:55] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 11, in index
+    obtener_categorias()
+  File "/e-commerce/etienda/models.py", line 48, in obtener_categorias
+    producto["id"] = str(producto.get('_id'))
+                         ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+[01/Dec/2023 12:48:55] ERROR [django.server:212] "GET /etienda/ HTTP/1.1" 500 62882
+[01/Dec/2023 12:48:55] ERROR [django.server:212] "GET /etienda/ HTTP/1.1" 500 62882
+[01/Dec/2023 12:49:00] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 11, in index
+    obtener_categorias()
+  File "/e-commerce/etienda/models.py", line 48, in obtener_categorias
+    producto["id"] = str(producto.get('_id'))
+                         ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+[01/Dec/2023 12:49:00] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 11, in index
+    obtener_categorias()
+  File "/e-commerce/etienda/models.py", line 48, in obtener_categorias
+    producto["id"] = str(producto.get('_id'))
+                         ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+[01/Dec/2023 12:49:00] ERROR [django.server:212] "GET /etienda/ HTTP/1.1" 500 62690
+[01/Dec/2023 12:49:00] ERROR [django.server:212] "GET /etienda/ HTTP/1.1" 500 62690
+[01/Dec/2023 12:49:16] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:49:18] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:50:08] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:50:15] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:50:19] INFO [etienda.models:68] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:50:19] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 36, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:50:19] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 36, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:50:19] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 165320
+[01/Dec/2023 12:50:19] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 165320
+[01/Dec/2023 12:50:33] INFO [etienda.models:68] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:50:33] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 36, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:50:33] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 36, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:50:33] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 165055
+[01/Dec/2023 12:50:33] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 165055
+[01/Dec/2023 12:50:38] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:50:39] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:50:42] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 12:52:55] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:52:58] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:53:05] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:53:06] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 40, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:53:06] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 40, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:53:06] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 166044
+[01/Dec/2023 12:53:06] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 166044
+[01/Dec/2023 12:54:00] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:54:22] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:54:25] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 12:54:25] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 43, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:54:25] ERROR [django.request:241] Internal Server Error: /etienda/categoria/women's clothing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 43, in categorias
+    return render(
+           ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 733, in __getitem__
+    self.__check_okay_to_chain()
+  File "/usr/local/lib/python3.11/site-packages/pymongo/cursor.py", line 505, in __check_okay_to_chain
+    raise InvalidOperation("cannot set options after executing query")
+pymongo.errors.InvalidOperation: cannot set options after executing query
+[01/Dec/2023 12:54:25] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 165987
+[01/Dec/2023 12:54:25] ERROR [django.server:212] "GET /etienda/categoria/women's%20clothing HTTP/1.1" 500 165987
+[01/Dec/2023 12:54:34] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 12:54:38] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:01:45] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:02:38] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:02:43] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:31] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:32] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:33] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:33] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:33] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:33] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:33] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:33] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:34] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:34] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:34] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:34] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:04:37] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:15:38] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:15:50] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:20:41] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:20:45] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:21:00] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:21:05] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:21:07] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:21:10] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 13:21:11] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:21:24] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:21:29] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:21:33] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:21:35] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:21:36] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:21:37] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:22:15] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:22:17] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:24:20] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:24:22] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:24:46] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:24:50] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:25:48] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:25:50] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 13:26:08] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 13:26:10] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 20:35:38] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 20:39:00] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:39:02] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 20:40:07] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 20:40:10] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:40:14] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 20:43:51] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:43:56] INFO [etienda.api:169] Error al leer producto: '${productId}' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+[01/Dec/2023 20:45:46] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:45:48] INFO [etienda.api:169] Error al leer producto: '${productId}' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+[01/Dec/2023 20:47:45] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:50:15] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:53:45] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:53:47] INFO [etienda.api:169] Error al leer producto: '${productId}' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+[01/Dec/2023 20:54:05] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:54:08] INFO [etienda.api:169] Error al leer producto: '${productId}' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+[01/Dec/2023 20:54:29] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 20:54:32] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:00:09] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:00:13] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:00:31] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:00:34] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:00:59] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:01:03] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:02:42] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:02:46] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:04:48] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:04:52] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:05:18] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:05:21] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:05:48] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:05:50] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:06:06] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:06:08] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:06:20] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:06:22] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:06:37] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:06:38] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:09:54] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:10:00] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:11:03] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:11:06] INFO [etienda.api:164] Producto leído: 656a44a73ee4f51b2836b799
+[01/Dec/2023 21:14:48] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 21:16:43] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 21:17:49] ERROR [etienda.api:314] Error al actualizar rating: '1' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+[01/Dec/2023 21:18:04] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 21:19:30] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:21:18] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 21:21:31] INFO [etienda.api:276] Productos listados
+[01/Dec/2023 21:23:17] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 21:23:21] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:23:23] ERROR [django:119] "GET - Actualiza_rating /etienda/api/productos/656a4ec56e7c5ce5759079f6/rating" ()
+[01/Dec/2023 21:23:23] ERROR [django:119] "GET - Actualiza_rating /etienda/api/productos/656a4ec56e7c5ce5759079f6/rating" ()
+[01/Dec/2023 21:23:47] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 21:23:51] INFO [etienda.models:37] Productos insertados: 20
+[01/Dec/2023 21:27:12] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Dec/2023 21:27:15] INFO [etienda.api:164] Producto leído: 656a4ee702facfffc6757d71
+[02/Dec/2023 19:26:04] INFO [etienda.models:37] Productos insertados: 20
+[02/Dec/2023 19:26:35] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:27:52] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:28:49] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:29:09] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:29:31] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:29:47] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:30:08] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:30:17] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:30:48] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:32:26] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:33:41] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:33:45] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d9178
+[02/Dec/2023 19:33:47] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d9179
+[02/Dec/2023 19:33:50] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 19:33:51] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 19:33:52] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 19:33:53] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 19:34:45] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:34:50] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d9176
+[02/Dec/2023 19:35:51] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:35:54] INFO [etienda.api:164] Producto leído: 656b84cc40ec1f10db8d9177
+[02/Dec/2023 19:41:14] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:43:20] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:46:24] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:47:27] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:48:03] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:48:44] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:48:59] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:49:35] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:49:53] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:52:54] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:53:26] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:54:23] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 19:54:30] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:01:45] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:02:39] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:03:04] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:04:24] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:04:49] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:06:23] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:08:35] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:08:38] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:08:52] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:08:55] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:56] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:57] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:57] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:57] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:59] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:59] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:59] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:59] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:08:59] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:09:00] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:09:00] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:09:00] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:09:00] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:10:45] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:10:49] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:11:26] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:11:29] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:11:52] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:11:55] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:13:27] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:13:30] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:13:31] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:15:19] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:15:22] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:15:24] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:16:33] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:16:36] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:16:55] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:17:00] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:17:04] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:18:34] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:18:39] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:19:13] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Dec/2023 20:19:17] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[02/Dec/2023 20:19:20] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:19:20] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:19:21] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917a
+[02/Dec/2023 20:19:23] INFO [etienda.api:282] Nuevo rating: 656b84cc40ec1f10db8d917b
+[16/Dec/2023 12:32:21] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 12:34:12] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 12:34:35] INFO [etienda.api:312] Productos encontrados
+[16/Dec/2023 12:34:52] INFO [etienda.api:312] Productos encontrados
+[16/Dec/2023 12:34:58] INFO [etienda.api:312] Productos encontrados
+[16/Dec/2023 12:44:58] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 12:53:32] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 12:53:41] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 12:57:05] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:01:41] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:01:44] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:01:44] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:01:44] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:01:44] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:01:44] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:02:19] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:05:03] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:06:44] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:08:09] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:08:09] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:13:42] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:14:59] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:15:20] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:15:29] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:15:59] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:17:10] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:17:20] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:17:27] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:17:27] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:17:54] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:17:58] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:17:58] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:18:08] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:18:47] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:18:59] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:19:07] INFO [etienda.api:311] Productos encontrados
+[16/Dec/2023 13:21:22] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 13:21:46] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 13:22:00] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 13:22:22] INFO [etienda.models:37] Productos insertados: 20
+[16/Dec/2023 13:22:48] INFO [etienda.api:357] Productos de una categoria listados
+[16/Dec/2023 13:31:01] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:31:19] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:31:22] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:31:23] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:31:33] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:31:33] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:31:35] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:31:59] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:32:01] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:33:08] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:34:17] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:34:17] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:37:03] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:39:47] INFO [etienda.api:331] Productos encontrados
+[16/Dec/2023 13:39:53] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:47:05] INFO [etienda.models:37] Productos insertados: 20
+[22/Dec/2023 11:47:15] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:47:29] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:47:33] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:47:38] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:47:42] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:47:49] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:47:55] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 11:48:10] INFO [etienda.api:331] Productos encontrados
+[22/Dec/2023 12:01:10] INFO [etienda.models:37] Productos insertados: 20
+[22/Dec/2023 12:01:32] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:01:38] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:01:44] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:01:51] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:01:57] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:01:59] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:02:02] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:02:07] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:02:12] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:02:18] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:02:31] INFO [etienda.api:336] Productos encontrados
+[22/Dec/2023 12:02:49] INFO [etienda.models:37] Productos insertados: 20
+[22/Dec/2023 12:02:52] INFO [etienda.models:37] Productos insertados: 20
+[22/Dec/2023 12:16:54] INFO [etienda.models:37] Productos insertados: 20
+[22/Dec/2023 12:17:06] INFO [etienda.api:335] Productos encontrados
+[24/Dec/2023 13:21:54] INFO [etienda.models:37] Productos insertados: 20
+[25/Dec/2023 11:33:19] INFO [etienda.models:37] Productos insertados: 20
+[25/Dec/2023 11:33:26] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
