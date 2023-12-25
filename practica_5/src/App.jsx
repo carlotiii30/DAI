@@ -1,64 +1,35 @@
-import { useEffect, useState } from "react";
-import "./css/styles.css";
+import './css/main.css';
+import ProductList from './components/ProductList';
+import SearchBar from './components/SearchBar';
+import { useEffect, useState } from "react"
+import Navbar from './components/NavBar';
 
 export default function App() {
-  const [isLoading, setIsLoading] = useState(true);
-  const [imageUrl, setImageUrl] = useState(null);
-  const [error, setError] = useState(null);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [searchTermDraft, setSearchTermDraft] = useState("");
 
-  useEffect(() => {
-    if (isLoading) {
-      async function fetchData() {
-        try {
-          const response = await fetch(
-            "https://dog.ceo/api/breeds/image/random"
-          );
-          if (response.ok) {
-            const dog = await response.json();
-            setImageUrl(dog.message);
-            setError(null);
-            setIsLoading(false);
-          } else {
-            setError("Hubo un error al obtener el perrito");
-          }
-        } catch (error) {
-          setError("No pudimos hacer la solicitud para obtener el perrito");
-        }
-      }
-      fetchData();
-    }
-  }, [isLoading]);
-
-  const randomDog = () => {
-    setIsLoading(true);
+  const handleChange = (event) => {
+    setSearchTermDraft(event.target.value);
   };
 
-  if (error) {
-    return (
-      <div className="App">
-        <h1>{error}</h1>
-        <button onClick={randomDog}>Volver a intentarlo</button>
-      </div>
-    );
-  }
-
-  if (isLoading) {
-    return (
-      <div className="App">
-        <h1>Cargando...</h1>
-      </div>
-    );
-  }
+  const handleSearch = (event) => {
+    event.preventDefault();
+    setSearchTerm(searchTermDraft);
+  };
 
   return (
     <div className="App">
-      <img src={imageUrl} alt="Imagen de perrito aleatoria" />
-      <button onClick={randomDog}>
-        ¡Otro!{" "}
-        <span role="img" aria-label="corazón">
-          ❤️
-        </span>
-      </button>
+      <Navbar />
+      <header>
+        <SearchBar onSearch={handleChange} />
+        <button onClick={handleSearch}>Search</button>
+      </header>
+      <main>
+        <ProductList searchTerm={searchTerm} />
+      </main>
+      <footer>
+        <p> &copy; 2023 Carlota de la Vega </p>
+      </footer>
     </div>
   );
 }
