@@ -1,0 +1,156 @@
+[01/Nov/2023 20:14:51] INFO [etienda.models:57] Busqueda realizada. Palabra: busqueda
+[01/Nov/2023 20:16:08] INFO [etienda.models:57] Busqueda realizada. Palabra: buscando
+[01/Nov/2023 20:16:46] INFO [etienda.models:37] Se insertaron 20 documentos desde la API.
+[01/Nov/2023 20:17:48] INFO [etienda.models:37] Productos insertados: 20
+[01/Nov/2023 20:18:13] INFO [etienda.models:37] Productos insertados: 20
+[01/Nov/2023 20:18:15] INFO [etienda.models:37] Productos insertados: 20
+[02/Nov/2023 12:52:56] INFO [etienda.models:37] Productos insertados: 20
+[02/Nov/2023 12:53:09] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Nov/2023 12:56:46] ERROR [django.request:241] Internal Server Error: /etienda/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 111, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 87, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 69, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+[02/Nov/2023 12:56:46] ERROR [django.request:241] Internal Server Error: /etienda/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 111, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 87, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 69, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+[02/Nov/2023 12:56:46] ERROR [django.server:212] "GET /etienda/login/ HTTP/1.1" 500 73144
+[02/Nov/2023 12:56:46] ERROR [django.server:212] "GET /etienda/login/ HTTP/1.1" 500 73144
+[02/Nov/2023 12:57:11] ERROR [django.request:241] Internal Server Error: /etienda/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 111, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 87, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 69, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+[02/Nov/2023 12:57:11] ERROR [django.request:241] Internal Server Error: /etienda/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 111, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 87, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/response.py", line 69, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+[02/Nov/2023 12:57:11] ERROR [django.server:212] "GET /etienda/login/ HTTP/1.1" 500 73144
+[02/Nov/2023 12:57:11] ERROR [django.server:212] "GET /etienda/login/ HTTP/1.1" 500 73144
+[02/Nov/2023 12:59:02] INFO [etienda.models:37] Productos insertados: 20
+[02/Nov/2023 13:07:15] INFO [etienda.models:37] Productos insertados: 20
+[02/Nov/2023 13:07:31] INFO [etienda.models:37] Productos insertados: 20
+[02/Nov/2023 13:08:14] INFO [etienda.models:37] Productos insertados: 20
+[02/Nov/2023 13:08:31] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[02/Nov/2023 13:08:59] INFO [etienda.models:37] Productos insertados: 20
+[04/Nov/2023 08:59:37] INFO [etienda.models:37] Productos insertados: 20
+[05/Nov/2023 11:08:50] INFO [etienda.models:37] Productos insertados: 20
+[05/Nov/2023 11:09:01] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[05/Nov/2023 11:09:06] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: men's clothing
+[05/Nov/2023 11:09:11] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: electronics
+[05/Nov/2023 11:09:49] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 18:34:09] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 18:34:36] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 18:35:25] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: jewelery
+[06/Nov/2023 18:35:28] INFO [etienda.models:55] Busqueda realizada. Palabra: from
+[06/Nov/2023 18:35:32] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 18:35:47] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 18:35:55] INFO [etienda.models:55] Busqueda realizada. Palabra: size
+[06/Nov/2023 20:11:30] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:11:48] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 20:11:53] INFO [etienda.models:55] Busqueda realizada. Palabra: busqueda
+[06/Nov/2023 20:12:05] INFO [etienda.models:55] Busqueda realizada. Palabra:
+[06/Nov/2023 20:12:24] INFO [etienda.models:55] Busqueda realizada. Palabra: mens
+[06/Nov/2023 20:12:44] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 20:12:49] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: electronics
+[06/Nov/2023 20:12:53] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: jewelery
+[06/Nov/2023 20:12:56] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: jewelery
+[06/Nov/2023 20:12:57] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: electronics
+[06/Nov/2023 20:13:41] INFO [etienda.models:55] Busqueda realizada. Palabra: hard
+[06/Nov/2023 20:14:16] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:14:26] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:14:33] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:14:38] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:14:43] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:14:44] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: hard
+[06/Nov/2023 20:14:47] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: casual
+[06/Nov/2023 20:14:56] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: contrast
+[06/Nov/2023 20:15:24] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:15:49] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: contrast
+[06/Nov/2023 20:15:55] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: hola
+[06/Nov/2023 20:16:37] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: hola
+[06/Nov/2023 20:16:39] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 20:16:44] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: hol
+[06/Nov/2023 20:17:19] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 20:17:26] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra:
+[06/Nov/2023 20:17:43] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 20:18:38] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 20:20:55] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:20:58] INFO [etienda.models:37] Productos insertados: 20
+[06/Nov/2023 20:21:28] INFO [etienda.models:96] Imagen guardada
+[06/Nov/2023 20:21:28] INFO [etienda.models:84] Producto creado
+[06/Nov/2023 20:21:29] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing
+[06/Nov/2023 20:21:30] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: men's clothing
+[06/Nov/2023 20:21:49] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: electronics
+[10/Nov/2023 10:47:35] INFO [etienda.models:37] Productos insertados: 20
+[17/Nov/2023 12:23:24] INFO [etienda.models:37] Productos insertados: 20
+[17/Nov/2023 13:31:00] INFO [etienda.models:37] Productos insertados: 20
+[17/Nov/2023 13:32:01] INFO [etienda.models:37] Productos insertados: 20
+[17/Nov/2023 13:33:03] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: jewelery
+[17/Nov/2023 13:33:32] INFO [etienda.models:37] Productos insertados: 20
+[17/Nov/2023 13:34:08] INFO [etienda.models:37] Productos insertados: 20
+[17/Nov/2023 13:50:27] INFO [etienda.models:55] Resultados de la busqueda obtenidos. Palabra: Shirt
+[17/Nov/2023 13:53:00] INFO [etienda.models:64] Productos de una categoria obtenidos. Categoria: women's clothing

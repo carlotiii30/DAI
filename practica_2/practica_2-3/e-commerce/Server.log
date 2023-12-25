@@ -1,0 +1,6 @@
+[01/Nov/2023 20:14:51] INFO [etienda.models:57] Busqueda realizada. Palabra: busqueda
+[01/Nov/2023 20:16:08] INFO [etienda.models:57] Busqueda realizada. Palabra: buscando
+[01/Nov/2023 20:16:46] INFO [etienda.models:37] Se insertaron 20 documentos desde la API.
+[01/Nov/2023 20:17:48] INFO [etienda.models:37] Productos insertados: 20
+[01/Nov/2023 20:18:13] INFO [etienda.models:37] Productos insertados: 20
+[01/Nov/2023 20:18:15] INFO [etienda.models:37] Productos insertados: 20

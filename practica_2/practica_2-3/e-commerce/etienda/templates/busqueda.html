@@ -1,0 +1,21 @@
+{% extends "template.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h1>Search results</h1>
+
+    <ul class="list-group">
+        {% for producto in resultados %}
+        <li class="list-group-item">
+            <h3>{{ producto.title }}</h3>
+            <img src="{{ producto.image }}" alt="{{ producto.title }}" class="img-thumbnail" width="150" height="150">
+            <p><strong>Description:</strong> {{ producto.description }}</p>
+            <p><strong>Price:</strong> {{ producto.price }}€</p>
+            <p><strong>Category:</strong> {{ producto.category }}</p>
+            <p><strong>Rating:</strong> {{ producto.rating.rate }} | <strong>Count:</strong> {{ producto.rating.count }}
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}

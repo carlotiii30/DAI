@@ -1,0 +1,19 @@
+{% extends "template.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="row">
+        {% for categoria in categorias %}
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <img src="{{ categoria.image }}" alt="{{ categoria.title }}" class="card-img-top img-fluid h-50">
+                <div class="card-body">
+                    <h5 class="card-title">{{ categoria.title }}</h5>
+                    <a href="{% url 'categorias' categoria %}" class="btn btn-primary">Ver Productos</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
