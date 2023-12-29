@@ -1,9 +1,8 @@
 import React from 'react';
 
-const SearchBar = ({ onSearch }) => {
+const SearchBar = ({ onSearch, onClick }) => {
   return (
     <div>
-      <label htmlFor="search">Buscar: </label>
       <input
         type="text"
         id="search"
@@ -11,6 +10,9 @@ const SearchBar = ({ onSearch }) => {
         placeholder="Ingresa tu búsqueda"
         onChange={onSearch}
       />
+      <button className="btn btn-outline-success my-2 my-sm-0" type="button" onClick={onClick}>
+        Buscar
+      </button>
     </div>
   );
 };

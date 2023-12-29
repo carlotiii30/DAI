@@ -1095,3 +1095,5 @@ pymongo.errors.InvalidOperation: cannot set options after executing query
 [24/Dec/2023 13:21:54] INFO [etienda.models:37] Productos insertados: 20
 [25/Dec/2023 11:33:19] INFO [etienda.models:37] Productos insertados: 20
 [25/Dec/2023 11:33:26] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[26/Dec/2023 13:49:25] INFO [etienda.models:37] Productos insertados: 20
+[26/Dec/2023 13:49:44] INFO [etienda.api:335] Productos encontrados

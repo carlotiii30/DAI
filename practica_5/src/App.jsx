@@ -1,12 +1,11 @@
-import './css/main.css';
 import ProductList from './components/ProductList';
-import SearchBar from './components/SearchBar';
-import { useEffect, useState } from "react"
+import { useState } from "react"
 import Navbar from './components/NavBar';
 
 export default function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchTermDraft, setSearchTermDraft] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("");
 
   const handleChange = (event) => {
     setSearchTermDraft(event.target.value);
@@ -17,16 +16,24 @@ export default function App() {
     setSearchTerm(searchTermDraft);
   };
 
+  const handleCategoryClick = (category) => {
+    setSelectedCategory(category);
+  }
+
   return (
-    <div className="App">
-      <Navbar />
+    <div>
       <header>
-        <SearchBar onSearch={handleChange} />
-        <button onClick={handleSearch}>Search</button>
+      <Navbar
+        handleChange={handleChange}
+        handleSearch={handleSearch}
+        onCategoryClick={handleCategoryClick}
+      />
       </header>
+
       <main>
-        <ProductList searchTerm={searchTerm} />
+        <ProductList searchTerm={searchTerm} selectedCategory={selectedCategory} />
       </main>
+
       <footer>
         <p> &copy; 2023 Carlota de la Vega </p>
       </footer>
