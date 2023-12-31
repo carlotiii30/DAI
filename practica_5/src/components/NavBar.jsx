@@ -3,7 +3,7 @@ import React from 'react';
 import SearchBar from './SearchBar.jsx';
 import Categories from './Categories.jsx';
 
-const Navbar = ({ handleChange, handleSearch, onCategoryClick }) => {
+const Navbar = ({ handleChange, handleSearch, categoryClick }) => {
 
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -22,7 +22,7 @@ const Navbar = ({ handleChange, handleSearch, onCategoryClick }) => {
 
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
-            <Categories onCategoryClick={onCategoryClick} />
+            <Categories onClick={categoryClick} />
           </li>
         </ul>
 

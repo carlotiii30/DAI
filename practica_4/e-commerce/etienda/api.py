@@ -290,24 +290,6 @@ def Actualiza_rating(request, id: str, newRating: int):
 
 # - - - - -  - - - - - - - PRACTICA 5 - - - - - - - - - - - - - - - -
 
-# Obtener todas las categorías
-@api.get(
-    "/productos/categorias",
-    tags=["TIENDA DAI"],
-    response={200: List[str], 404: ErrorSchema},
-)
-def Lista_categorias(request):
-    try:
-        # Obtener las categorías desde la base de datos
-        resu = productos_collection.distinct("category")
-
-        logger.info(f"Categorias listadas")
-        return 200, resu
-    except Exception as e:
-        logger.info(f"Error al listar categorias: {e}")
-        return 404, {"message": "Error al listar categorias"}
-
-
 # Buscar un producto por título o descripción
 @api.get(
     "/productos/busqueda/{palabra}",

@@ -11,13 +11,14 @@ export default function App() {
     setSearchTermDraft(event.target.value);
   };
 
-  const handleSearch = (event) => {
-    event.preventDefault();
+  const handleSearch = () => {
     setSearchTerm(searchTermDraft);
-  };
+    setSelectedCategory(null);
+  }
 
   const handleCategoryClick = (category) => {
     setSelectedCategory(category);
+    setSearchTerm(null);
   }
 
   return (
@@ -26,7 +27,7 @@ export default function App() {
       <Navbar
         handleChange={handleChange}
         handleSearch={handleSearch}
-        onCategoryClick={handleCategoryClick}
+        categoryClick={handleCategoryClick}
       />
       </header>
 

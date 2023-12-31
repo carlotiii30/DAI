@@ -1,22 +1,6 @@
 const apiUrl = 'http://localhost:8000/etienda/api';
 
 
-export const fetchCategories = async () => {
-    try {
-        const response = await fetch(`${apiUrl}/productos/categorias`);
-        const data = await response.json();
-
-        console.log('API Response (Categories):', data);
-
-        if (response.ok) {
-            return data;
-        }
-    } catch (error) {
-        console.error('Error al obtener categorías:', error);
-        throw error;
-    }
-};
-
 export const fetchProducts = async (searchTerm) => {
     try {
         const response = await fetch(`${apiUrl}/productos/busqueda/${searchTerm}`);
@@ -42,7 +26,7 @@ export const fetchProductsByCategory = async (category) => {
         console.log('API Response (Products by Category):', data);
 
         if (response.ok) {
-            return data;
+            return { resultados: data };
         }
     } catch (error) {
         console.error('Error al obtener productos por categoría:', error);

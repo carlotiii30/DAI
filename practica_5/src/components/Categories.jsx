@@ -2,34 +2,35 @@ import React, { useState } from 'react';
 import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 import '../css/dropdown.css';
 
-const Categories = ({ onCategoryClick }) => {
-  const [dropdownOpen, setDropdownOpen] = useState(false);
+const Categories = ({ onClick }) => {
+    const [dropdownOpen, setDropdownOpen] = useState(false);
 
-  const handleClickCategory = (category) => {
-    onCategoryClick(category);
-  };
+    const handleClickCategory = (category) => {
+        onClick(category);
+    };
 
-  const toggle = () => setDropdownOpen((prevState) => !prevState);
+    const toggle = () => setDropdownOpen((prevState) => !prevState);
 
-  return (
-    <Dropdown isOpen={dropdownOpen} toggle={toggle}>
-      <DropdownToggle caret>Categories</DropdownToggle>
-      <DropdownMenu>
-        <DropdownItem>
-          <a className="drop-down" onClick={() => handleClickCategory("women's clothing")}>Women's Fashion</a>
-        </DropdownItem>
-        <DropdownItem>
-          <a className="drop-down" onClick={() => handleClickCategory("men's clothing")}>Men's Fashion</a>
-        </DropdownItem>
-        <DropdownItem>
-          <a className="drop-down" onClick={() => handleClickCategory("jewelery")}>Jewelery</a>
-        </DropdownItem>
-        <DropdownItem>
-          <a className="drop-down" onClick={() => handleClickCategory("electronics")}>Electronics</a>
-        </DropdownItem>
-      </DropdownMenu>
-    </Dropdown>
-  );
+    return (
+        <Dropdown isOpen={dropdownOpen} toggle={toggle}>
+            <DropdownToggle caret>Categories</DropdownToggle>
+            <DropdownMenu>
+                <DropdownItem>
+                    <button className="drop-down" onClick={() => handleClickCategory("women's clothing")}>Women's Fashion</button>
+                </DropdownItem>
+                <DropdownItem>
+                    <button className="drop-down" onClick={() => handleClickCategory("men's clothing")}>Men's Fashion</button>
+                </DropdownItem>
+                <DropdownItem>
+                    <button className="drop-down" onClick={() => handleClickCategory("jewelery")}>Jewelery</button>
+                </DropdownItem>
+                <DropdownItem>
+                    <button className="drop-down" onClick={() => handleClickCategory("electronics")}>Electronics</button>
+                </DropdownItem>
+
+            </DropdownMenu>
+        </Dropdown>
+    );
 };
 
 export default Categories;
