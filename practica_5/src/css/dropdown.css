@@ -1,0 +1,11 @@
+.drop-down {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  width: 100%;
+  text-decoration: none;
+}
