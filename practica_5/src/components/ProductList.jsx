@@ -26,8 +26,7 @@ const ProductList = ({ searchTerm, selectedCategory }) => {
           }
 
           return;
-        }
-        else if (searchTerm) {
+        } else if (searchTerm) {
           // Si se ingresó un término de búsqueda, obtén los productos de esa búsqueda
           const data = await fetchProducts(searchTerm);
           console.log('Data:', data);
@@ -42,14 +41,13 @@ const ProductList = ({ searchTerm, selectedCategory }) => {
             console.log('No se encontraron productos.');
           }
         }
-
       } catch (error) {
         console.error('Error fetching products:', error);
       }
     };
 
     fetchProductsData();
-  }, [searchTerm], [selectedCategory]);
+  }, [searchTerm, selectedCategory]); // Combina las dependencias en un solo arreglo
 
   return (
     <div>

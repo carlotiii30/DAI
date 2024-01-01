@@ -33,3 +33,22 @@ export const fetchProductsByCategory = async (category) => {
         throw error;
     }
 };
+
+export const fetchCategories = async () => {
+    try {
+      const response = await fetch(`${apiUrl}/categorias`);
+
+      if (!response.ok) {
+        throw new Error(`Error fetching categories. Status: ${response.status}`);
+      }
+
+      const data = await response.json();
+
+      console.log('API Response (Categories):', data);
+
+      return { categorias: data };
+    } catch (error) {
+      console.error('Error al obtener categorías:', error);
+      throw error;
+    }
+  };
