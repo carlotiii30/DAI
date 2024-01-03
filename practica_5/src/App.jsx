@@ -24,15 +24,17 @@ export default function App() {
   return (
     <div>
       <header>
-      <Navbar
-        handleChange={handleChange}
-        handleSearch={handleSearch}
-        categoryClick={handleCategoryClick}
-      />
+        <Navbar
+          handleChange={handleChange}
+          handleSearch={handleSearch}
+          categoryClick={handleCategoryClick}
+        />
       </header>
 
       <main>
-        <ProductList searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <ul className="list-group">
+          <ProductList searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        </ul>
       </main>
 
       <footer>
