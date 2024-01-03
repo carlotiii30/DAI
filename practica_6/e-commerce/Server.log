@@ -71,3 +71,8 @@
 [03/Jan/2024 13:25:28] INFO [etienda.api:343] Productos de una categoria listados
 [03/Jan/2024 13:25:59] INFO [etienda.api:317] Productos encontrados
 [03/Jan/2024 13:26:00] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:47:35] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:48:26] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:58:34] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:05:14] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:22:16] INFO [etienda.models:37] Productos insertados: 20
