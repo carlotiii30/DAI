@@ -10,4 +10,5 @@ Practicas de la asignatura Desarrollo de Aplicaciones para Internet.
   - [Practica 2.4: Autentificacion](./practica_2/practica_2-4)
 - [Practica 3: API Restful](./practica_3)
 - [Practica 4: Mejorando UX_DOM](./practica_4)
-- [Practica_5: React](./practica_5)
+- [Practica 5: React](./practica_5)
+- [Practica 6: Despliegue](./practica_6)
