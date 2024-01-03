@@ -1,4 +1,7 @@
 data/*
 backup/*
 .vscode/*
+
 *.log
+
+.DS_Store
