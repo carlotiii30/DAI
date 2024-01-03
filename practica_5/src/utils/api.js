@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:8000/etienda/api';
+const apiUrl = 'http://localhost/etienda/api'; // Hemos cambiado el puerto a 80 para poder usar la p6.
 
 
 export const fetchProducts = async (searchTerm) => {

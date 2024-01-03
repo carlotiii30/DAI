@@ -1,0 +1,88 @@
+[31/Dec/2023 19:17:11] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[31/Dec/2023 19:18:04] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: shirt
+[31/Dec/2023 19:18:36] INFO [etienda.api:335] Productos encontrados
+[31/Dec/2023 19:18:48] INFO [etienda.api:361] Productos de una categoria listados
+[31/Dec/2023 19:19:00] INFO [etienda.api:361] Productos de una categoria listados
+[31/Dec/2023 19:19:14] INFO [etienda.api:361] Productos de una categoria listados
+[31/Dec/2023 19:19:30] INFO [etienda.models:37] Productos insertados: 20
+[31/Dec/2023 19:19:38] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:20:07] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:20:12] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:20:21] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:21:04] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:23:09] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:27:57] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:28:04] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:33:00] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:33:42] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:34:01] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:34:44] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:34:54] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:35:00] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:35:37] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:35:48] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:36:14] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:37:11] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:37:16] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:37:22] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:38:03] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:39:48] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:39:54] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:39:57] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:39:59] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:40:21] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:40:23] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:40:29] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:42:39] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:42:44] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:43:16] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:43:23] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:44:37] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:44:44] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:44:48] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:44:50] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:44:55] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:45:03] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:45:03] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:45:19] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:46:36] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:46:48] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:46:50] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:47:19] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:47:23] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:47:25] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:47:41] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:48:13] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:48:17] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:48:45] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:48:50] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:48:59] INFO [etienda.api:317] Productos encontrados
+[31/Dec/2023 19:49:02] INFO [etienda.api:343] Productos de una categoria listados
+[31/Dec/2023 19:49:30] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:20:32] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:20:54] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:21:00] INFO [etienda.api:317] Productos encontrados
+[03/Jan/2024 13:21:01] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:23:22] INFO [etienda.api:317] Productos encontrados
+[03/Jan/2024 13:23:26] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:25:12] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:25:12] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:25:24] INFO [etienda.api:317] Productos encontrados
+[03/Jan/2024 13:25:28] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:25:59] INFO [etienda.api:317] Productos encontrados
+[03/Jan/2024 13:26:00] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 13:47:35] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:48:26] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:58:34] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:05:14] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:22:16] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:27:13] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:28:14] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:35:02] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: men's clothing
+[03/Jan/2024 14:35:18] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: men's clothing
+[03/Jan/2024 14:40:01] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 14:40:06] INFO [etienda.api:317] Productos encontrados
+[03/Jan/2024 14:40:09] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 14:40:27] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 14:41:47] INFO [etienda.api:317] Productos encontrados
+[03/Jan/2024 14:41:49] INFO [etienda.api:343] Productos de una categoria listados
