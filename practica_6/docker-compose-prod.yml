@@ -19,7 +19,7 @@ services:
       # - "443:443"
     volumes:
       - ./nginx-config:/etc/nginx/conf.d
-      - ./data/static:/var/www/static
+      - ./e-commerce/etienda/static:/var/www/static
     depends_on:
       - app
 
