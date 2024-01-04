@@ -345,3 +345,20 @@ def Lista_productos_categoria(request, categoria: str):
     except Exception as e:
         logger.info(f"Error al listar productos de una categoria: {e}")
         return 404, {"message": "Error al listar productos de una categoria"}
+
+# Obtener todas las categorías
+@api.get(
+    "/categorias",
+    tags=["TIENDA DAI"],
+    response={200: List[str], 404: ErrorSchema},
+)
+def Lista_categorias(request):
+    try:
+        # Obtener los productos desde la base de datos
+        resu = productos_collection.find().distinct("category")
+
+        logger.info(f"Categorias listadas")
+        return 200, resu
+    except Exception as e:
+        logger.info(f"Error al listar categorias: {e}")
+        return 404, {"message": "Error al listar categorias"}

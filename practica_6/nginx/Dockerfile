@@ -1,3 +1,4 @@
-FROM nginx:1.19.6-alpine
+# Dockerfile
+FROM nginx:latest
 
-COPY ./nginx-config/default.conf /etc/nginx/conf.d/default.conf
+COPY ./default.conf /etc/nginx/conf.d/default.conf

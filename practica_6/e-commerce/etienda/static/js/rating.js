@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         function sendRating(productId, rating) {
             try {
-                fetch(`http://localhost:8000/etienda/api/productos/${productId}/rating/${rating}`, {
+                fetch(`http://localhost:80/etienda/api/productos/${productId}/rating/${rating}`, {
                     credentials: "same-origin",
                     method: 'PUT',
                     headers: {
@@ -62,7 +62,6 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
                         return response.json();
                     }).then(data => {
-                        document.body.appendChild(document.createTextNode("TODO OK" + JSON.stringify(data)));
                         rateSpan.innerHTML = `<strong>Rate: </strong>${data.rating.rate}`;
                         countSpan.innerHTML = `<strong>Count: </strong>${data.rating.count}`;
                     }).catch(error => {

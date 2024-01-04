@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-%6(p@91^oix0i0zvodv8k-x8()tr8me*qdq+ysdp(84pji(h5s"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
@@ -187,4 +187,9 @@ LOGOUT_REDIRECT_URL = "/etienda/"
 # CORS -- Práctica 5
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
+    'http://localhost',
+]
+
+CSRF_TRUSTED_ORIGINS = [
+    'http://localhost',
 ]

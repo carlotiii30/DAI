@@ -59,30 +59,1189 @@
 [31/Dec/2023 19:48:59] INFO [etienda.api:317] Productos encontrados
 [31/Dec/2023 19:49:02] INFO [etienda.api:343] Productos de una categoria listados
 [31/Dec/2023 19:49:30] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:20:32] INFO [etienda.models:37] Productos insertados: 20
-[03/Jan/2024 13:20:54] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:21:00] INFO [etienda.api:317] Productos encontrados
-[03/Jan/2024 13:21:01] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:23:22] INFO [etienda.api:317] Productos encontrados
-[03/Jan/2024 13:23:26] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:25:12] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:25:12] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:25:24] INFO [etienda.api:317] Productos encontrados
-[03/Jan/2024 13:25:28] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:25:59] INFO [etienda.api:317] Productos encontrados
-[03/Jan/2024 13:26:00] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 13:47:35] INFO [etienda.models:37] Productos insertados: 20
-[03/Jan/2024 13:48:26] INFO [etienda.models:37] Productos insertados: 20
-[03/Jan/2024 13:58:34] INFO [etienda.models:37] Productos insertados: 20
-[03/Jan/2024 14:05:14] INFO [etienda.models:37] Productos insertados: 20
-[03/Jan/2024 14:22:16] INFO [etienda.models:37] Productos insertados: 20
-[03/Jan/2024 14:27:13] INFO [etienda.models:37] Productos insertados: 20
+[01/Jan/2024 21:19:23] INFO [etienda.models:37] Productos insertados: 20
+[01/Jan/2024 21:19:38] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: men's clothing
+[01/Jan/2024 21:23:07] INFO [etienda.models:37] Productos insertados: 20
+[01/Jan/2024 21:23:21] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Jan/2024 21:23:26] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: jewelery
+[01/Jan/2024 21:27:36] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:29:29] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:33:43] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:37:59] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:38:02] INFO [etienda.api:317] Productos encontrados
+[01/Jan/2024 21:40:47] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Jan/2024 21:40:58] INFO [etienda.api:317] Productos encontrados
+[01/Jan/2024 21:41:00] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:41:05] INFO [etienda.api:317] Productos encontrados
+[01/Jan/2024 21:41:07] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:41:35] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Jan/2024 21:45:50] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:49:15] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:50:53] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[01/Jan/2024 21:54:26] INFO [etienda.models:37] Productos insertados: 20
+[01/Jan/2024 21:55:27] INFO [etienda.models:37] Productos insertados: 20
+[01/Jan/2024 21:57:28] INFO [etienda.models:37] Productos insertados: 20
+[01/Jan/2024 21:57:28] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 21:57:28] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 21:57:34] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 21:57:34] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 21:57:35] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 21:57:36] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 21:57:36] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:10:15] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:10:49] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:10:49] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:11:55] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:11:59] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:12:18] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:12:21] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:12:21] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:12:26] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:12:26] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:12:27] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:12:27] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:13:38] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:13:56] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:14:55] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:02] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:02] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:07] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:07] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:08] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:08] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:15] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:15] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:16] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:16] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:16] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:16] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:17] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:17] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:19] INFO [etienda.api:343] Productos de una categoria listados
+[01/Jan/2024 22:15:22] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:22] INFO [etienda.api:360] Categorias listadas
+[01/Jan/2024 22:15:23] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 11:32:53] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 11:35:25] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[03/Jan/2024 11:35:29] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[03/Jan/2024 11:35:36] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: jewelery
+[03/Jan/2024 11:43:26] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: electronics
+[03/Jan/2024 11:43:34] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: bracelet
+[03/Jan/2024 11:43:34] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: bracelet
+[03/Jan/2024 11:43:42] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: sandisk
+[03/Jan/2024 11:44:22] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: bracelet
+[03/Jan/2024 11:53:01] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 12:00:34] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 12:01:24] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 12:09:13] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 12:11:26] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 12:12:19] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 12:20:46] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 12:22:22] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:04:23] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:22:32] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:22:32] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:23:25] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 13:23:25] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 13:23:25] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'static12'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'static12' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+[03/Jan/2024 14:21:58] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:21:58] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'staticImg'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 8: 'staticImg', expected 'endblock'. Did you forget to register or load this tag?
+[03/Jan/2024 14:21:58] ERROR [django.request:241] Internal Server Error: /etienda/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'staticImg'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/e-commerce/etienda/views.py", line 14, in index
+    return render(request, "index.html", {"categorias": categorias})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/usr/local/lib/python3.11/site-packages/django/template/base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 8: 'staticImg', expected 'endblock'. Did you forget to register or load this tag?
+[03/Jan/2024 14:23:39] INFO [etienda.models:37] Productos insertados: 20
 [03/Jan/2024 14:28:14] INFO [etienda.models:37] Productos insertados: 20
-[03/Jan/2024 14:35:02] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: men's clothing
-[03/Jan/2024 14:35:18] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: men's clothing
-[03/Jan/2024 14:40:01] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 14:40:06] INFO [etienda.api:317] Productos encontrados
-[03/Jan/2024 14:40:09] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 14:40:27] INFO [etienda.api:343] Productos de una categoria listados
-[03/Jan/2024 14:41:47] INFO [etienda.api:317] Productos encontrados
-[03/Jan/2024 14:41:49] INFO [etienda.api:343] Productos de una categoria listados
+[03/Jan/2024 14:56:50] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 14:59:04] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: men's clothing
+[03/Jan/2024 14:59:06] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[03/Jan/2024 14:59:08] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: shirt
+[03/Jan/2024 14:59:11] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: shirt
+[03/Jan/2024 14:59:15] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: bracelet
+[03/Jan/2024 14:59:17] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: jewelery
+[03/Jan/2024 14:59:20] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: bracelet
+[03/Jan/2024 14:59:25] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: jewelery
+[03/Jan/2024 14:59:29] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: hardy
+[03/Jan/2024 14:59:32] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: electronics
+[03/Jan/2024 14:59:36] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: drive
+[03/Jan/2024 14:59:44] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: based
+[03/Jan/2024 15:00:11] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[03/Jan/2024 15:08:13] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 15:14:37] INFO [etienda.models:37] Productos insertados: 20
+[03/Jan/2024 15:22:40] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[03/Jan/2024 15:22:42] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc1
+[03/Jan/2024 15:22:43] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc1
+[03/Jan/2024 15:22:44] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc1
+[03/Jan/2024 15:22:45] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc1
+[03/Jan/2024 15:22:52] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc2
+[03/Jan/2024 15:22:54] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc2
+[03/Jan/2024 15:22:54] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc2
+[03/Jan/2024 15:22:55] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc2
+[03/Jan/2024 15:22:56] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc2
+[03/Jan/2024 15:22:57] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc2
+[03/Jan/2024 15:23:00] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc4
+[03/Jan/2024 15:23:01] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc4
+[03/Jan/2024 15:23:02] INFO [etienda.api:282] Nuevo rating: 659579dd79cce3bf7a8decc4
+[03/Jan/2024 15:23:09] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: shirt
+[04/Jan/2024 09:20:45] INFO [etienda.models:37] Productos insertados: 20
+[04/Jan/2024 09:21:05] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[04/Jan/2024 09:21:07] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: shirt
+[04/Jan/2024 09:21:10] INFO [etienda.api:287] Error al actualizar rating: 'null' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+[04/Jan/2024 09:21:15] INFO [etienda.models:76] Productos de una categoria obtenidos. Categoria: women's clothing
+[04/Jan/2024 09:21:20] INFO [etienda.api:282] Nuevo rating: 6596786dff4788c5017234da
