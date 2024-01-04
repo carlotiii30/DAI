@@ -56,7 +56,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     .then(response => {
                         if (!response.ok) {
                             error = response.status;
-                            document.body.appendChild(document.createTextNode("ERROR: " + error));
                             throw new Error('Error al enviar la calificación al API' + error);
 
                         }
@@ -65,11 +64,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         rateSpan.innerHTML = `<strong>Rate: </strong>${data.rating.rate}`;
                         countSpan.innerHTML = `<strong>Count: </strong>${data.rating.count}`;
                     }).catch(error => {
-                        document.body.appendChild(document.createTextNode("ERROR: " + error));
                         console.error('Error:', error);
                     });
             } catch (error) {
-                document.body.appendChild(document.createTextNode("ERROR: " + error));
                 console.error('Error:', error);
             }
         }

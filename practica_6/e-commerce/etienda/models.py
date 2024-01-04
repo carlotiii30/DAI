@@ -95,7 +95,7 @@ def nuevo_prod(title, price, description, image, category):
 
     productos_collection.insert_one(producto)
 
-    logger.info("Producto creado")
+    logger.info("Producto creado: " + str(producto))
 
 
 # Guardar una imagen en el directorio 'media'

@@ -1490,3 +1490,13 @@ FileNotFoundError: [Errno 2] No such file or directory: '/e-commerce/imagenes/No
 [04/Jan/2024 16:27:40] INFO [etienda.api:282] Nuevo rating: 6596d89e35c019e91d439a92
 [04/Jan/2024 16:27:41] INFO [etienda.api:287] Error al actualizar rating: 'rating'
 [04/Jan/2024 16:27:50] INFO [etienda.models:61] Resultados de la busqueda obtenidos. Palabra: hola
+[04/Jan/2024 17:04:46] INFO [etienda.models:39] Productos insertados: 20
+[04/Jan/2024 17:05:16] INFO [etienda.models:78] Productos de una categoria obtenidos. Categoria: women's clothing
+[04/Jan/2024 17:06:12] INFO [etienda.models:39] Productos insertados: 20
+[04/Jan/2024 17:06:17] INFO [etienda.models:78] Productos de una categoria obtenidos. Categoria: women's clothing
+[04/Jan/2024 17:06:20] INFO [etienda.api:282] Nuevo rating: 6596e584fa88f8b43e5a11d0
+[04/Jan/2024 17:06:37] INFO [etienda.models:108] Imagen guardada
+[04/Jan/2024 17:06:37] INFO [etienda.models:98] Producto creado: {'title': 'Producto', 'price': 80.0, 'description': 'hola', 'image': '/imagenes/Producto', 'category': "women's clothing", '_id': ObjectId('6596e59dfa88f8b43e5a11d1')}
+[04/Jan/2024 17:06:38] INFO [etienda.models:78] Productos de una categoria obtenidos. Categoria: women's clothing
+[04/Jan/2024 17:06:45] INFO [etienda.api:287] Error al actualizar rating: 'rating'
+[04/Jan/2024 17:07:13] INFO [etienda.api:282] Nuevo rating: 6596e584fa88f8b43e5a11d0
