@@ -3,6 +3,8 @@ from django.conf import settings
 import requests
 import os
 import logging
+from django.core.files.storage import default_storage
+from django.core.files.base import ContentFile
 
 # Logger
 logger = logging.getLogger(__name__)
@@ -55,7 +57,7 @@ def busqueda(palabra):
     productos = list(resultados_busqueda)
 
     for producto in productos:
-        producto["id"] = str(producto.get('_id'))
+        producto["id"] = str(producto.get("_id"))
         del producto["_id"]
 
     logger.info(f"Resultados de la busqueda obtenidos. Palabra: {palabra}")
@@ -70,7 +72,7 @@ def prods_categoria(categoria):
     productos = list(resultados_categoria)
 
     for producto in productos:
-        producto["id"] = str(producto.get('_id'))
+        producto["id"] = str(producto.get("_id"))
         del producto["_id"]
 
     logger.info(f"Productos de una categoria obtenidos. Categoria: {categoria}")
@@ -85,7 +87,7 @@ def nuevo_prod(title, price, description, image, category):
 
     producto = {
         "title": title,
-        "price": price,
+        "price": float(price),
         "description": description,
         "image": url,
         "category": category,
@@ -98,20 +100,23 @@ def nuevo_prod(title, price, description, image, category):
 
 # Guardar una imagen en el directorio 'media'
 def guardar_imagen(imagen, nombre):
-    nombre_imagen = str(nombre) + ".jpg"
-    ruta = os.path.join(settings.MEDIA_ROOT, nombre_imagen)
+    try:
+        nombre_imagen = default_storage.save(
+            os.path.join(settings.MEDIA_ROOT, nombre), ContentFile(imagen.read())
+        )
 
-    with open(ruta, "wb+") as destino:
-        for chunk in imagen.chunks():
-            destino.write(chunk)
-
-    logger.info("Imagen guardada")
-
-    return nombre_imagen
+        logger.info("Imagen guardada")
+        return nombre_imagen
+    except Exception as e:
+        logger.error(f"Error al guardar la imagen: {str(e)}")
+        return None
 
 
 # url de la imagen
 def url_imagen(nombre):
     url = settings.MEDIA_URL
+
+    if not url.endswith("/"):
+        url += "/"
 
     return f"{url}{nombre}"
