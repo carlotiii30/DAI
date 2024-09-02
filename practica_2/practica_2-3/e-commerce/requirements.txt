@@ -6,4 +6,4 @@ email-validator==2.0
 typing-extensions==4.8
 django==4.2
 olefile==0.46
-Pillow==8.4
+Pillow==10.3.0
