@@ -4,6 +4,6 @@ pydantic==2.3
 requests==2.31
 email-validator==2.0
 typing-extensions==4.8
-django==4.2.15
+django==4.2.25
 olefile==0.46
 Pillow==8.4
